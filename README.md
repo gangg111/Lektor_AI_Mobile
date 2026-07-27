@@ -7,7 +7,7 @@
 </div>
 <br><br>
 
-<h3 align="center">Lektor AI — Android</h3>
+<h3 align="center">Lektor AI Mobile</h3>
 
 <p align="center">
   <img src="images/ikona.png" alt="Lektor AI — ikona aplikacji" width="220">
@@ -20,7 +20,7 @@
 </p>
 
 ### 🤖 O projekcie
-Mobilna wersja programu **[Lektor AI](https://github.com/gangg111/Lektor_AI)** — ta sama idea, tylko w kieszeni. Aplikacja bierze film z napisami, generuje z nich naturalnie brzmiący głos lektora po polsku i miksuje go z oryginalną ścieżką, zachowując synchronizację z czasami napisów. Wszystko dzieje się na telefonie: kolejka filmów, generowanie mowy, montaż i zapis gotowego pliku.
+Mobilna wersja programu **[Lektor AI](https://github.com/gangg111/Lektor_AI)** - ta sama idea, tylko w kieszeni. Aplikacja bierze film z napisami, generuje z nich naturalnie brzmiący głos lektora po polsku i miksuje go z oryginalną ścieżką, zachowując synchronizację z czasami napisów. Wszystko dzieje się na telefonie: kolejka filmów, generowanie mowy, montaż i zapis gotowego pliku.
 
 Druga połowa aplikacji to **pilot do wersji na komputer**: zakładka „PC" pokazuje na żywo kolejkę, fazę renderu, ETA i log z Lektora AI na PC, a przyciskiem START/STOP sterujesz nim z kanapy — albo zza miasta.
 
@@ -35,7 +35,7 @@ Poniżej zrzuty ekranu z działającej aplikacji:
 </p>
 
 <p align="center">
-  <sub><b>Kolejka</b> — filmy do przetworzenia i log &nbsp;·&nbsp; <b>Ustawienia</b> — głos, głośności, tempo, offset &nbsp;·&nbsp; <b>Podgląd</b> — odsłuch fragmentu &nbsp;·&nbsp; <b>PC</b> — łączenie z komputerem i pilot</sub>
+  <sub><b>Kolejka</b> - filmy do przetworzenia i log &nbsp;·&nbsp; <b>Ustawienia</b> — głos, głośności, tempo, offset &nbsp;·&nbsp; <b>Podgląd</b> — odsłuch fragmentu &nbsp;·&nbsp; <b>PC</b> — łączenie z komputerem i pilot</sub>
 </p>
 
 ### 🚀 Funkcje
@@ -57,15 +57,7 @@ Poniżej zrzuty ekranu z działającej aplikacji:
 2. W aplikacji wejdź w zakładkę **PC** → **SZUKAJ KOMPUTERA W SIECI** (albo wpisz adres ręcznie) i przepisz **PIN** z panelu.
 3. Gotowe — telefon pamięta parowanie. W domu podgląd idzie po sieci lokalnej, poza domem sam przełącza się na tunel.
 
-> Chcesz mieć podgląd także poza domem? Włącz na komputerze **„Dostęp poza domem"** — apka pobierze wtedy jednorazowo mały dodatek i sama zestawi połączenie. Nie trzeba nic ustawiać w routerze.
-
-### 🛠️ Budowanie ze źródeł
-```bash
-git clone https://github.com/gangg111/Lektor_AI_Mobile
-cd Lektor_AI_Mobile
-./gradlew assembleRelease
-```
-Potrzebne: **Android Studio** (Hedgehog lub nowsze) i **JDK 21** — najprościej użyć tego z Android Studio (`JAVA_HOME` → `<Android Studio>/jbr`). Podpis wydania konfiguruje się w `keystore.properties` (plik nie jest częścią repozytorium).
+> Chcesz mieć podgląd także poza domem? Włącz na komputerze **„Dostęp poza domem".**
 
 ### 🙏 Podziękowania
 
