@@ -28,14 +28,13 @@ Druga połowa aplikacji to **pilot do wersji na komputer**: zakładka „PC" pok
 Poniżej zrzuty ekranu z działającej aplikacji:
 
 <p align="center">
-  <img src="images/01-kolejka.jpg" alt="Kolejka filmów" width="200">
-  <img src="images/02-ustawienia.jpg" alt="Ustawienia głosu lektora" width="200">
-  <img src="images/03-pc.jpg" alt="Zakładka PC — pilot do komputera" width="200">
-  <img src="images/04-podglad.jpg" alt="Podgląd lektora" width="200">
+  <img src="images/01-kolejka.jpg" alt="Kolejka filmów" width="230">
+  <img src="images/02-ustawienia.jpg" alt="Ustawienia głosu lektora" width="230">
+  <img src="images/04-podglad.jpg" alt="Podgląd lektora" width="230">
 </p>
 
 <p align="center">
-  <sub><b>Kolejka</b> — filmy do przetworzenia i log &nbsp;·&nbsp; <b>Ustawienia</b> — głos, głośności, tempo, offset &nbsp;·&nbsp; <b>PC</b> — pilot do wersji na komputer &nbsp;·&nbsp; <b>Podgląd</b> — odsłuch fragmentu</sub>
+  <sub><b>Kolejka</b> — filmy do przetworzenia i log &nbsp;·&nbsp; <b>Ustawienia</b> — głos, głośności, tempo, offset &nbsp;·&nbsp; <b>Podgląd</b> — odsłuch fragmentu</sub>
 </p>
 
 ## 🚀 Funkcje
