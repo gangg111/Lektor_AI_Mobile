@@ -24,6 +24,20 @@ Mobilna wersja programu **[Lektor AI](https://github.com/gangg111/Lektor_AI)** �
 
 Druga połowa aplikacji to **pilot do wersji na komputer**: zakładka „PC" pokazuje na żywo kolejkę, fazę renderu, ETA i log z Lektora AI na PC, a przyciskiem START/STOP sterujesz nim z kanapy — albo zza miasta.
 
+## 📸 Interfejs aplikacji
+Poniżej zrzuty ekranu z działającej aplikacji:
+
+<p align="center">
+  <img src="images/01-kolejka.jpg" alt="Kolejka filmów" width="200">
+  <img src="images/02-ustawienia.jpg" alt="Ustawienia głosu lektora" width="200">
+  <img src="images/03-pc.jpg" alt="Zakładka PC — pilot do komputera" width="200">
+  <img src="images/04-podglad.jpg" alt="Podgląd lektora" width="200">
+</p>
+
+<p align="center">
+  <sub><b>Kolejka</b> — filmy do przetworzenia i log &nbsp;·&nbsp; <b>Ustawienia</b> — głos, głośności, tempo, offset &nbsp;·&nbsp; <b>PC</b> — pilot do wersji na komputer &nbsp;·&nbsp; <b>Podgląd</b> — odsłuch fragmentu</sub>
+</p>
+
 ## 🚀 Funkcje
 * **Głosy neuronowe** — Microsoft Edge-TTS oraz OpenAI TTS, ten sam dobór głosów co w wersji na komputer.
 * **Kolejka filmów** — dodajesz kilka plików i lecą po kolei; log na bieżąco mówi, co się dzieje.
