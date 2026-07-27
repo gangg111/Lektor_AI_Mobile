@@ -20,9 +20,9 @@
 </p>
 
 ### 🤖 O projekcie
-Mobilna wersja programu **[Lektor AI](https://github.com/gangg111/Lektor_AI)** - ta sama idea, tylko w kieszeni. Aplikacja bierze film z napisami, generuje z nich naturalnie brzmiący głos lektora po polsku i miksuje go z oryginalną ścieżką, zachowując synchronizację z czasami napisów. Wszystko dzieje się na telefonie: kolejka filmów, generowanie mowy, montaż i zapis gotowego pliku.
+Mobilna wersja programu **[Lektor AI](https://github.com/gangg111/Lektor_AI)** to ta sama idea, tylko w kieszeni. Aplikacja bierze film z napisami, generuje z nich naturalnie brzmiący głos lektora po polsku i miksuje go z oryginalną ścieżką, zachowując synchronizację z czasami napisów. Wszystko dzieje się na telefonie: kolejka filmów, generowanie mowy, montaż i zapis gotowego pliku.
 
-Druga połowa aplikacji to **pilot do wersji na komputer**: zakładka „PC" pokazuje na żywo kolejkę, fazę renderu, ETA i log z Lektora AI na PC, a przyciskiem START/STOP sterujesz nim z kanapy — albo zza miasta.
+Druga połowa aplikacji to **pilot do wersji na komputer**: zakładka „PC" pokazuje na żywo kolejkę, fazę renderu, ETA i log z Lektora AI na PC, a przyciskiem START/STOP sterujesz nim z kanapy albo zza miasta.
 
 ### 📸 Interfejs aplikacji
 Poniżej zrzuty ekranu z działającej aplikacji:
