@@ -7,7 +7,7 @@
 </div>
 <br><br>
 
-# Lektor AI — Android
+<h3 align="center">Lektor AI — Android</h3>
 
 <p align="center">
   <img src="images/ikona.png" alt="Lektor AI — ikona aplikacji" width="220">
@@ -19,12 +19,12 @@
   <img src="https://img.shields.io/badge/instalacja-APK%20z%20Releases-FF9900?style=flat-square">
 </p>
 
-## 🤖 O projekcie
+### 🤖 O projekcie
 Mobilna wersja programu **[Lektor AI](https://github.com/gangg111/Lektor_AI)** — ta sama idea, tylko w kieszeni. Aplikacja bierze film z napisami, generuje z nich naturalnie brzmiący głos lektora po polsku i miksuje go z oryginalną ścieżką, zachowując synchronizację z czasami napisów. Wszystko dzieje się na telefonie: kolejka filmów, generowanie mowy, montaż i zapis gotowego pliku.
 
 Druga połowa aplikacji to **pilot do wersji na komputer**: zakładka „PC" pokazuje na żywo kolejkę, fazę renderu, ETA i log z Lektora AI na PC, a przyciskiem START/STOP sterujesz nim z kanapy — albo zza miasta.
 
-## 📸 Interfejs aplikacji
+### 📸 Interfejs aplikacji
 Poniżej zrzuty ekranu z działającej aplikacji:
 
 <p align="center">
@@ -38,7 +38,7 @@ Poniżej zrzuty ekranu z działającej aplikacji:
   <sub><b>Kolejka</b> — filmy do przetworzenia i log &nbsp;·&nbsp; <b>Ustawienia</b> — głos, głośności, tempo, offset &nbsp;·&nbsp; <b>Podgląd</b> — odsłuch fragmentu &nbsp;·&nbsp; <b>PC</b> — łączenie z komputerem i pilot</sub>
 </p>
 
-## 🚀 Funkcje
+### 🚀 Funkcje
 * **Głosy neuronowe** — Microsoft Edge-TTS oraz OpenAI TTS, ten sam dobór głosów co w wersji na komputer.
 * **Kolejka filmów** — dodajesz kilka plików i lecą po kolei; log na bieżąco mówi, co się dzieje.
 * **Pełna kontrola brzmienia** — głośność lektora i tła (LUFS), tempo, tonacja, offset względem napisów.
@@ -47,19 +47,19 @@ Poniżej zrzuty ekranu z działającej aplikacji:
 * **Zakładka PC (pilot)** — podgląd renderu na komputerze w czasie rzeczywistym, kolejka z miniaturami, log i zdalny START/STOP.
 * **Podgląd także poza domem** — w sieci domowej połączenie jest bezpośrednie, a poza nią leci szyfrowanym tunelem; gdy komputer jest niedostępny, dostajesz powiadomienia o starcie, kolejnych plikach, końcu i błędach.
 
-## 📲 Instalacja
+### 📲 Instalacja
 1. Pobierz plik **APK** z sekcji **[Releases](https://github.com/gangg111/Lektor_AI_Mobile/releases)**.
 2. Otwórz go na telefonie i potwierdź instalację z nieznanego źródła (Android zapyta raz).
 3. Wymagany Android **8.0 (API 26)** lub nowszy.
 
-## 🔗 Połączenie z wersją na komputer
+### 🔗 Połączenie z wersją na komputer
 1. W Lektorze AI na PC kliknij **ikonę telefonu** w prawej kolumnie i włącz **„Podgląd postępu na telefonie"**.
 2. W aplikacji wejdź w zakładkę **PC** → **SZUKAJ KOMPUTERA W SIECI** (albo wpisz adres ręcznie) i przepisz **PIN** z panelu.
 3. Gotowe — telefon pamięta parowanie. W domu podgląd idzie po sieci lokalnej, poza domem sam przełącza się na tunel.
 
 > Chcesz mieć podgląd także poza domem? Włącz na komputerze **„Dostęp poza domem"** — apka pobierze wtedy jednorazowo mały dodatek i sama zestawi połączenie. Nie trzeba nic ustawiać w routerze.
 
-## 🛠️ Budowanie ze źródeł
+### 🛠️ Budowanie ze źródeł
 ```bash
 git clone https://github.com/gangg111/Lektor_AI_Mobile
 cd Lektor_AI_Mobile
@@ -67,7 +67,7 @@ cd Lektor_AI_Mobile
 ```
 Potrzebne: **Android Studio** (Hedgehog lub nowsze) i **JDK 21** — najprościej użyć tego z Android Studio (`JAVA_HOME` → `<Android Studio>/jbr`). Podpis wydania konfiguruje się w `keystore.properties` (plik nie jest częścią repozytorium).
 
-## 🙏 Podziękowania
+### 🙏 Podziękowania
 
 Aplikacja stoi na pracy społeczności open-source — ogromne podziękowania dla twórców:
 
