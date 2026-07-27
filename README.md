@@ -7,7 +7,12 @@
 </div>
 <br><br>
 
-<h3 align="center">Lektor AI Mobile</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/title-dark.png">
+    <img src="images/title-light.png" alt="Lektor AI Mobile" width="540">
+  </picture>
+</p>
 
 <p align="center">
   <img src="images/ikona.png" alt="Lektor AI, ikona aplikacji" width="220">
