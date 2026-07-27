@@ -30,12 +30,12 @@ Poniżej zrzuty ekranu z działającej aplikacji:
 <p align="center">
   <img src="images/01-kolejka.jpg" alt="Kolejka filmów" width="200">
   <img src="images/02-ustawienia.jpg" alt="Ustawienia głosu lektora" width="200">
-  <img src="images/03-pc.jpg" alt="Zakładka PC — pilot do komputera" width="200">
-  <img src="images/04-podglad.jpg" alt="Podgląd lektora" width="200">
+  <img src="images/03-podglad.jpg" alt="Podgląd lektora" width="200">
+  <img src="images/04-pc.jpg" alt="Zakładka PC — pilot do komputera" width="200">
 </p>
 
 <p align="center">
-  <sub><b>Kolejka</b> — filmy do przetworzenia i log &nbsp;·&nbsp; <b>Ustawienia</b> — głos, głośności, tempo, offset &nbsp;·&nbsp; <b>PC</b> — łączenie z komputerem i pilot &nbsp;·&nbsp; <b>Podgląd</b> — odsłuch fragmentu</sub>
+  <sub><b>Kolejka</b> — filmy do przetworzenia i log &nbsp;·&nbsp; <b>Ustawienia</b> — głos, głośności, tempo, offset &nbsp;·&nbsp; <b>Podgląd</b> — odsłuch fragmentu &nbsp;·&nbsp; <b>PC</b> — łączenie z komputerem i pilot</sub>
 </p>
 
 ## 🚀 Funkcje
