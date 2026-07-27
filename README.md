@@ -81,5 +81,4 @@ Aplikacja stoi na pracy społeczności open-source — ogromne podziękowania dl
 * **[ntfy](https://ntfy.sh/)** (Philipp Heckel) – za darmowy kanał powiadomień, dzięki któremu telefon wie o postępie także wtedy, gdy jest daleko od komputera.
 * **[Cloudflare Tunnel](https://github.com/cloudflare/cloudflared)** – za możliwość dosięgnięcia własnego komputera spoza sieci domowej bez grzebania w routerze.
 
----
 *Wersja na komputer: **[Lektor AI](https://github.com/gangg111/Lektor_AI)** — tam znajdziesz program dla Windows i pełny opis silników głosowych.*
